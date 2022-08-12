@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreyvaran
-- 👀 I’m interested in Python $ and beer))
-- 🌱 I’m currently learning ML and backend 
+- 👀 I’m interested in Python and Go
+- 🌱 I’m currently learning backend dev
 -  Win hackathon )
 ![image](https://user-images.githubusercontent.com/57299272/144706752-6a0f74b9-6531-4aaa-95c4-5fbd61e7b8fd.png)
 
